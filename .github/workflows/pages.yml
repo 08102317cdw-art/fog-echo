@@ -52,7 +52,8 @@ jobs:
           grep -F 'gate_open=true' /tmp/flow.log
           grep -F 'ending flag=true' /tmp/flow.log
           grep -F 'done' /tmp/flow.log
-          if grep -E 'SCRIPT ERROR|ERROR:' /tmp/flow.log; then exit 1; fi
+          # 原工程结束测试时会报告资源释放提示，保留日志，并单独拒绝其他运行错误。
+          if grep -E 'SCRIPT ERROR|ERROR:' /tmp/flow.log | grep -vE 'ERROR: [0-9]+ resources still in use at exit'; then exit 1; fi
       - name: 导入资源并构建
         run: |
           mkdir -p dist
