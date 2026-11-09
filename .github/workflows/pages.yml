@@ -43,10 +43,12 @@ jobs:
           curl --fail --location --retry 3 -o /tmp/templates.tpz "https://github.com/godotengine/godot-builds/releases/download/${GODOT_VERSION}-stable/Godot_v${GODOT_VERSION}-stable_export_templates.tpz"
           unzip -j -q /tmp/templates.tpz 'templates/web_nothreads_*.zip' -d "$HOME/.local/share/godot/export_templates/4.3.stable"
       - name: 验证原有剧情流程
+        env:
+          LIBGL_ALWAYS_SOFTWARE: "1"
         run: |
           set -o pipefail
           timeout 180 .godot-tools/Godot_v${GODOT_VERSION}-stable_linux.x86_64 --headless --path game --editor --import
-          timeout 180 .godot-tools/Godot_v${GODOT_VERSION}-stable_linux.x86_64 --headless --path game --fixed-fps 60 --disable-render-loop res://dev/test_flow.tscn 2>&1 | tee /tmp/flow.log
+          xvfb-run -a timeout 180 .godot-tools/Godot_v${GODOT_VERSION}-stable_linux.x86_64 --rendering-method gl_compatibility --audio-driver Dummy --path game --fixed-fps 60 --disable-render-loop res://dev/test_flow.tscn 2>&1 | tee /tmp/flow.log
           grep -F 'gate_open=true' /tmp/flow.log
           grep -F 'ending flag=true' /tmp/flow.log
           grep -F 'done' /tmp/flow.log
