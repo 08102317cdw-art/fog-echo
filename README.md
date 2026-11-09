@@ -37,6 +37,7 @@ python -m http.server 8080 --directory dist
 New-Item -ItemType Directory -Force dist
 godot --headless --path game --editor --import
 godot --headless --path game --export-release Web ../dist/index.html
+python tools/prepare_web.py
 ```
 
 推送到 `main` 后，`.github/workflows/pages.yml` 会从源码构建并部署网页。仓库 Settings → Pages 的来源需选择 GitHub Actions。

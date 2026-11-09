@@ -59,6 +59,7 @@ jobs:
           mkdir -p dist
           .godot-tools/Godot_v${GODOT_VERSION}-stable_linux.x86_64 --headless --path game --editor --import
           .godot-tools/Godot_v${GODOT_VERSION}-stable_linux.x86_64 --headless --path game --export-release Web ../dist/index.html
+          python3 tools/prepare_web.py
           cp LICENSE.md THIRD_PARTY_NOTICES.md dist/
           cp -r licenses dist/
           cp docs/v1.2_CREDITS.txt dist/CREDITS.txt
@@ -79,3 +80,5 @@ jobs:
       - name: 部署 GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1200000
