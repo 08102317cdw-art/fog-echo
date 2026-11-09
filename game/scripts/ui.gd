@@ -100,6 +100,13 @@ func _ready() -> void:
 	fader.mouse_filter = Control.MOUSE_FILTER_IGNORE
 	fader.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
 	root.add_child(fader)
+	# 浏览器全屏会隐藏网页外层说明，游戏画面内也保留准确版本号。
+	if OS.has_feature("web"):
+		var web_version := _lbl(root, "v1.1", 14, Color(0.8, 0.78, 0.74))
+		web_version.anchor_left = 1.0
+		web_version.anchor_right = 1.0
+		web_version.position = Vector2(-62, 12)
+		web_version.mouse_filter = Control.MOUSE_FILTER_IGNORE
 
 # ------------------------------------------------------------------ 工具
 func _theme() -> Theme:
