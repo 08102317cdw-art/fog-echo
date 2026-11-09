@@ -1,0 +1,180 @@
+﻿雾中回响 (Echoes in the Fog) v1.2 · 素材清单 / Credits
+============================================================
+非官方同人作品，与 KONAMI 无关。未使用任何《寂静岭》原作美术、音乐或音效素材。
+以下第三方素材均为 CC0（公有领域）、MIT 或 SIL OFL 授权，感谢所有作者。
+
+[引擎] Godot Engine 4.3 — MIT License — https://godotengine.org/license
+
+[3D 模型 · Poly Haven — CC0] https://polyhaven.com
+  Arm Chair 01 — Kirill Sannikov — https://polyhaven.com/a/ArmChair_01
+  Barrel_01 — Jorge Camacho — https://polyhaven.com/a/Barrel_01
+  Classic Nightstand 01 — Kirill Sannikov — https://polyhaven.com/a/ClassicNightstand_01
+  Gothic Bed 01 — Kirill Sannikov — https://polyhaven.com/a/GothicBed_01
+  Rockingchair 01 — Jorge Camacho — https://polyhaven.com/a/Rockingchair_01
+  School Chair 01 — Ethan Place — https://polyhaven.com/a/SchoolChair_01
+  School Desk 01 — Ethan Place — https://polyhaven.com/a/SchoolDesk_01
+  Shelf 01 — Gabriel Radić — https://polyhaven.com/a/Shelf_01
+  Sofa 01 — Kirill Sannikov — https://polyhaven.com/a/Sofa_01
+  Television 01 — Gabriel Radić — https://polyhaven.com/a/Television_01
+  Wet Floor Sign 01 — Fran Calvente — https://polyhaven.com/a/WetFloorSign_01
+  Wooden Table 01 — Ethan Place — https://polyhaven.com/a/WoodenTable_01
+  Ammo Box — DanKit — https://polyhaven.com/a/ammo_box
+  Bolt Action Rifle 7.62 — Mateusz Sadek — https://polyhaven.com/a/bolt_action_rifle_7_62
+  Can Rusted — Rahul Chaudhary — https://polyhaven.com/a/can_rusted
+  Cardboard Box 01 — Rahul Chaudhary — https://polyhaven.com/a/cardboard_box_01
+  Drawer Cabinet — Ulan Cabanilla — https://polyhaven.com/a/drawer_cabinet
+  Hanging Industrial Lamp — Kuutti Siitonen — https://polyhaven.com/a/hanging_industrial_lamp
+  Medical Box — Ulan Cabanilla — https://polyhaven.com/a/medical_box
+  Metal Office Desk — Ulan Cabanilla — https://polyhaven.com/a/metal_office_desk
+  Metal Toolbox — Mateusz Sadek — https://polyhaven.com/a/metal_toolbox
+  Metal Trash Can — GurJas Studios — https://polyhaven.com/a/metal_trash_can
+  Painted Wooden Cabinet — Kirill Sannikov — https://polyhaven.com/a/painted_wooden_cabinet
+  Painted Wooden Chair 01 — Kuutti Siitonen — https://polyhaven.com/a/painted_wooden_chair_01
+  Service Pistol — Mateusz Sadek — https://polyhaven.com/a/service_pistol
+  Steel Frame Shelves 01 — James Ray Cock — https://polyhaven.com/a/steel_frame_shelves_01
+  Trashbag — Benny Weimer — https://polyhaven.com/a/trashbag
+  Vintage Day Bed — Aron Łyczek — https://polyhaven.com/a/vintage_day_bed
+  Vintage Grandfather Clock 01 — Yann Kervran, James Ray Cock — https://polyhaven.com/a/vintage_grandfather_clock_01
+  Vintage Wooden Drawer 01 — James Ray Cock — https://polyhaven.com/a/vintage_wooden_drawer_01
+  Wall Clock — PierreB3D — https://polyhaven.com/a/wall_clock
+  Wheelchair 01 — Garreth Dean — https://polyhaven.com/a/wheelchair_01
+  Wooden Bookshelf Worn — Ulan Cabanilla — https://polyhaven.com/a/wooden_bookshelf_worn
+  Wooden Crate 01 — James Ray Cock — https://polyhaven.com/a/wooden_crate_01
+  Wooden Display Shelves 01 — James Ray Cock — https://polyhaven.com/a/wooden_display_shelves_01
+  Wooden Lantern 01 — James Ray Cock — https://polyhaven.com/a/wooden_lantern_01
+
+[3D 模型 · Kenney — CC0] Car Kit、Furniture Kit — https://kenney.nl
+
+[贴图 · Poly Haven — CC0]
+  asphalt_02 — https://polyhaven.com/a/asphalt_02
+  cliff_side — https://polyhaven.com/a/cliff_side
+  concrete_pavement — https://polyhaven.com/a/concrete_pavement
+  damaged_plaster — https://polyhaven.com/a/damaged_plaster
+  decrepit_wallpaper — https://polyhaven.com/a/decrepit_wallpaper
+  dirty_concrete — https://polyhaven.com/a/dirty_concrete
+  dry_decay_leaves — https://polyhaven.com/a/dry_decay_leaves
+  metal_grate_rusty — https://polyhaven.com/a/metal_grate_rusty
+  old_linoleum_flooring_01 — https://polyhaven.com/a/old_linoleum_flooring_01
+  painted_metal_shutter — https://polyhaven.com/a/painted_metal_shutter
+  painted_worn_brick — https://polyhaven.com/a/painted_worn_brick
+  park_dirt — https://polyhaven.com/a/park_dirt
+  rebar_reinforced_concrete — https://polyhaven.com/a/rebar_reinforced_concrete
+  red_brick_03 — https://polyhaven.com/a/red_brick_03
+  rough_pine_door — https://polyhaven.com/a/rough_pine_door
+  rust_coarse_01 — https://polyhaven.com/a/rust_coarse_01
+  rusty_corrugated_iron — https://polyhaven.com/a/rusty_corrugated_iron
+  rusty_metal_04 — https://polyhaven.com/a/rusty_metal_04
+  rusty_metal_sheet — https://polyhaven.com/a/rusty_metal_sheet
+  weathered_plank_siding — https://polyhaven.com/a/weathered_plank_siding
+  wood_planks_grey — https://polyhaven.com/a/wood_planks_grey
+  worn_plaster_wall — https://polyhaven.com/a/worn_plaster_wall
+  worn_tile_floor — https://polyhaven.com/a/worn_tile_floor
+[贴图 · ambientCG — CC0]
+  Fence003 — https://ambientcg.com/view?id=Fence003
+  MetalWalkway014 — https://ambientcg.com/view?id=MetalWalkway014
+
+[音效 · Freesound — CC0]（均经裁剪、变调、混响等重新加工）
+  Air Raid Siren by cocaine — https://freesound.org/s/157463/
+  abandoned warehouse by Kostrava — https://freesound.org/s/240895/
+  Alarm, Air Raid Siren, Test, Devonport, Sony PCM M-10.wav by audiojacked — https://freesound.org/s/336640/
+  Radio Interference/Static (Recorded from Ghetto Blaster) by harveyjnz — https://freesound.org/s/337700/
+  am band static.wav by cognito perceptu — https://freesound.org/s/38693/
+  Industrial ambience by Lewente — https://freesound.org/s/393398/
+  Air Raid Siren Alarm by Poligonstudio — https://freesound.org/s/412171/
+  Ominous and Deep Ambience by Resaural — https://freesound.org/s/467026/
+  Radio Noise.wav by RutgerMuller — https://freesound.org/s/50750/
+  wing flaps layered.wav by martian — https://freesound.org/s/19295/
+  bullet ricochet.wav by aust_paul — https://freesound.org/s/30932/
+  grandfather_clock_chimes.wav by 3bagbrew — https://freesound.org/s/73351/
+  crow.wav by nigelcoop — https://freesound.org/s/75162/
+  ravenflyby.aif by JamesOC — https://freesound.org/s/86883/
+  Dog Growling Snarling Grumbling by qubodup — https://freesound.org/s/122183/
+  Monster Groans, Grunts, Slobbers.aif by jasonLON — https://freesound.org/s/125405/
+  Opening a creaking door by Ryding — https://freesound.org/s/125957/
+  Grandfather clock.wav by Ryding — https://freesound.org/s/125968/
+  Horrific Zombie Growl by MrPokephile — https://freesound.org/s/133974/
+  Necksnap_build.wav by danielrutterfilms — https://freesound.org/s/134025/
+  ricochet.mp3 by cedarstudios — https://freesound.org/s/148840/
+  ANIMAL_PUG_DOG_YELP_MOAN_CRY_MONSTER_CREATURE_H4N_NTG3_20120528.wav by samueljustice00 — https://freesound.org/s/157285/
+  Dog's Yelping 7 by unfa — https://freesound.org/s/160478/
+  Money Pickup by LeMudCrab — https://freesound.org/s/163451/
+  Gargle Then Spit.wav by brlproductions — https://freesound.org/s/171336/
+  Monster Zombie Scream.wav by lolamadeus — https://freesound.org/s/179345/
+  Metal drawer by LloydEvans09 — https://freesound.org/s/185842/
+  Acid Bubbling.wav by spookymodem — https://freesound.org/s/202094/
+  Cash Register Purchase by Zott820 — https://freesound.org/s/209578/
+  Brass bullet shell casing drop onto concrete, multiple takes by GrayJoy — https://freesound.org/s/210102/
+  Bones Cracking by Firestorm002 — https://freesound.org/s/215140/
+  Door - Creak.wav by JarredGibb — https://freesound.org/s/219499/
+  Spitting.wav by ErikH2000 — https://freesound.org/s/232211/
+  Ripping Apart Carcass.wav by ProductionNow — https://freesound.org/s/234236/
+  Old Clock Chimes.wav by NightVoice — https://freesound.org/s/234268/
+  Clock ticking by Mortifreshman — https://freesound.org/s/237210/
+  Bird flapping wings by Elfman-Rox — https://freesound.org/s/238555/
+  Bird flying away.wav by flashdeejay — https://freesound.org/s/241032/
+  Mosin Nagant Bolt.wav by rammbostein — https://freesound.org/s/263459/
+  body falls.wav by Ephisus — https://freesound.org/s/266346/
+  Raven_Caw.wav by KiddoFish86 — https://freesound.org/s/274439/
+  Bouncing Shell Casings (Various Sizes) by GryffDavid — https://freesound.org/s/318964/
+  zombie growl by adharca — https://freesound.org/s/323819/
+  Dog_Bark_Agressive.wav by ivolipa — https://freesound.org/s/332176/
+  Vomit, puking spilling water onto grass splat.wav by SpliceSound — https://freesound.org/s/338116/
+  Rummaging through cardboard boxes by Podsburgh — https://freesound.org/s/338958/
+  Real Coin Drop by Rocotilos — https://freesound.org/s/343462/
+  Body fall_01.wav by deleted_user_2104797 — https://freesound.org/s/346695/
+  Sniper Rifle M24 SFX.mp3 by kennysvoice — https://freesound.org/s/351777/
+  Drawer by marcusgar — https://freesound.org/s/360949/
+  Crow Caw by Jofae — https://freesound.org/s/361470/
+  Coins Being Dropped-Assorted by TheWoodlandNomad — https://freesound.org/s/363090/
+  Mosin Nagant Bolt Action Cycle by Zott820 — https://freesound.org/s/370345/
+  Vomiting on the ground - Remixed by Podsburgh — https://freesound.org/s/370710/
+  Sizzle / Acid Burn by bottles — https://freesound.org/s/382313/
+  Single Pistol Gunshot 3.wav by morganpurkis — https://freesound.org/s/385811/
+  Crows.wav by ken788 — https://freesound.org/s/386768/
+  Monster screams.wav by gpag1 — https://freesound.org/s/391552/
+  Glock 19 Handgun Pistol Slide Cocking Sounds by jackthemurray — https://freesound.org/s/393734/
+  Mutant Scream by scorpion67890 — https://freesound.org/s/396797/
+  Small pistol gunshot indoors by acidsnowflake — https://freesound.org/s/402789/
+  Dog Growl - Beast / Creature by coldvet — https://freesound.org/s/404920/
+  EnfieldRifle.wav by SuperPhat — https://freesound.org/s/410442/
+  BloodSquish.wav by deoking — https://freesound.org/s/411671/
+  goreSplat.wav by ThefitzyG — https://freesound.org/s/414296/
+  Office Drawer.mp3 by bokal — https://freesound.org/s/414819/
+  acess denied buzz by Jacco18 — https://freesound.org/s/419023/
+  VisceralBulletImpacts.wav by u1769092 — https://freesound.org/s/423301/
+  9mm pistol shot by michorvath — https://freesound.org/s/427592/
+  9mm pistol load and chamber by michorvath — https://freesound.org/s/427593/
+  AR15 rifle shot by michorvath — https://freesound.org/s/427596/
+  Loading bullets into Sauer 404 mag.wav by moosegravy — https://freesound.org/s/431830/
+  PistolReloadSound.wav by MaximBomba — https://freesound.org/s/432139/
+  Zombie Demon Scream by Wakerone — https://freesound.org/s/435651/
+  squishy_flesh_thingy_seamless.wav by 1urker — https://freesound.org/s/435896/
+  Angry Dog by CmdRobot — https://freesound.org/s/439535/
+  R01-63-Dog Snarling and Attacking.wav by craigsmith — https://freesound.org/s/479633/
+  Headshot.wav by Pablobd — https://freesound.org/s/511194/
+  Punch by danlucaz — https://freesound.org/s/517744/
+  pigeons_fly away_ wing flaps_CsG by csaszi — https://freesound.org/s/528250/
+  Caw.ogg by egomassive — https://freesound.org/s/536732/
+  Impact: Smack Body by Sheyvan — https://freesound.org/s/540752/
+  Alien Xenomorph Hissing and Growling (with and without FX) by MSEpitaph — https://freesound.org/s/545484/
+  BORIERO_Nolwen_2020_2021_Monster breathing.wav by iut_Paris8 — https://freesound.org/s/567723/
+  Bone Breaks (celery snaps) by ericnorcross81 — https://freesound.org/s/574752/
+  old cash register open and close with a bing by clubmydia+ — https://freesound.org/s/584168/
+  Power Kick, Body Impact, 7x by Kinoton — https://freesound.org/s/586841/
+  Large Dog Aggressive Bark.mp3 by mrrap4food — https://freesound.org/s/619045/
+  9mm Handgun Being Dry Fired by serøutōnin--deprivəd — https://freesound.org/s/674568/
+  Digital_Keypad_Unlock_Clunky_Door by SoundsofTheMachine — https://freesound.org/s/759975/
+  Mauser 98k - bolt-action mechanism sound by Walking.With.Microphones — https://freesound.org/s/802673/
+  Gurgling-Choking by JadeW40 — https://freesound.org/s/826999/
+  Abomination Monster Vocalizations by marlonnnnnn — https://freesound.org/s/830859/
+  Keypad by Ultra-Edward — https://freesound.org/s/840450/
+  Glock 17 Trigger Pull by qubodup — https://freesound.org/s/842748/
+  Hand searching in a box by xkeril — https://freesound.org/s/870037/
+[音效 · Kenney — CC0] Impact Sounds、Interface Sounds、RPG Audio — https://kenney.nl
+
+[字体]
+  思源宋体 / Noto Serif CJK — SIL Open Font License 1.1
+  霞鹜文楷 LXGW WenKai — SIL Open Font License 1.1
+
+[程序生成] 怪物、恶犬、乌鸦、商人、Boss 的模型与骨骼动画，部分贴图，背景音乐与合成音效，
+            小镇 / 霍华德家 / 米德维奇小学 / 锅炉房的场景几何，均由本作工具脚本生成。

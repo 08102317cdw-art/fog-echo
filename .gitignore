@@ -1,0 +1,13 @@
+.godot/
+.mono/
+.godot-tools/
+**/bin/
+**/obj/
+/dist/
+/build/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
